@@ -1,4 +1,6 @@
 from tkinter import messagebox
 
+userinput=input("Please enter your quotation ")
 myText = "I have a dream"
-messagebox.showinfo("Welcome","myText")
+ourinput=myText + userinput
+messagebox.showinfo("Welcome",ourinput)
