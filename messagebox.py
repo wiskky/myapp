@@ -1,4 +1,4 @@
-#using tkinter 
+#using tkinter for message display on the screen
 From tkinter import messagebox
 
 userinput=input("Please enter your quotation ")
