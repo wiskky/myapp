@@ -15,8 +15,10 @@ do
    a=`expr $a + 1`
 done
 '
+
 #!/bin/sh
 # Script to print currently logged in users information, and current date & time.
+#This is for personal study
 clear
 echo "Hello $USER"
 echo -e "Today is \c ";date
