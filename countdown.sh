@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 '
 #this program print number in a primal style.
 
