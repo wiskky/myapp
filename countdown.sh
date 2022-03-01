@@ -1,5 +1,6 @@
 #!/bin/bash
 '
+# use can also us /sh too
 #this program print number in a primal style.
 
 a=0
