@@ -1,3 +1,4 @@
+#Program to allow user to enter the guess number from 1 to 10
 import random
 
 def guess(x):
