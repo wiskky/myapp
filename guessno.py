@@ -12,4 +12,4 @@ def guess(x):
             print('Sorry, guess again. Too high.')
     print(f'Yay, congrats. You have guessed the {random_number}')
 
-guess(10)
+guess(20)
