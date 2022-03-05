@@ -4,7 +4,7 @@
 #this program print number in a primal style.
 
 a=0
-while [ "$a" -lt 10 ]
+while [ "$a" -lt 20 ]
 do
    b="$a"
    while [ "$b" -ge 0 ]
