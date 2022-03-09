@@ -8,7 +8,7 @@ for number in range(1,30):
 
 print(a_list)
 
-#This sprogram is the same as the first one.
+#The below sprogram is the same as the first one as the above.
 
 b_list = [ number for number in range(1, 30) if number % 2 == 0 ]
 print(b_list)
