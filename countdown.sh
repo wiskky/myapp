@@ -16,7 +16,7 @@ do
    a=`expr $a + 1`
 done
 '
-
+.
 #!/bin/sh
 # Script to print currently logged in users information, and current date & time.
 #This is for personal study
@@ -28,3 +28,4 @@ echo -e "Number of user login : \c" ; who | wc -l
 echo "Display Calendar"
 cal
 exit 0
+.
