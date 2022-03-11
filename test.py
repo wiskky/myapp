@@ -7,6 +7,9 @@ for number in range(1,30):
         a_list.append(number)
 
 print(a_list)
+print(a_list)
+print(a_list)
+print(a_list)
 
 #The below sprogram is the same as the first one as the above.
 
