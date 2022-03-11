@@ -1,6 +1,10 @@
 #Program to allow user to enter the guess number from 1 to 10
 import random
 
+#This program allows user to guess the correct number from 1 to 10
+#system will ask user to enter the guess number and if is correct the user wins
+# if not the user will continue to enter the number until it guess it right.
+
 def guess(guessnumber):
     random_number = random.randint(1, guessnumber)
     guess = 0
