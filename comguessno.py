@@ -1,5 +1,6 @@
 import random
 
+#This program allows computer to guess the user number correctly
 
 def computer_guess(x):
     low = 1
