@@ -1,7 +1,7 @@
-#Program to allow user to enter the guess number from 1 to 10
+#Program to allow user to enter the guess number from 1 to 40
 import random
 
-#This program allows user to guess the correct number from 1 to 10
+#This program allows user to guess the correct number from 1 to 40
 #system will ask user to enter the guess number and if is correct the user wins
 # if not the user will continue to enter the number until it guess it right.
 
@@ -16,4 +16,4 @@ def guess(guessnumber):
             print('Sorry, guess again. Too high.')
     print(f'Yay, congrats. You have guessed the {random_number}')
 
-guess(30)
+guess(40)
