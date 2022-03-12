@@ -20,4 +20,4 @@ def computer_guess(x):
 
     print(f'Yay, congrats. You have guessed the number, {guess} correctly')
 
-computer_guess(10)
+computer_guess(20)
