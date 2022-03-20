@@ -8,3 +8,4 @@ for students in name_list:
         print(marks[counter])
         break
     counter += 1
+
