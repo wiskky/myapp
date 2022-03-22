@@ -3,4 +3,6 @@ str_list = ["thirty", "forty", "Fifty", "Sixty", "Seventy"]
 
 result = zip(number_list, str_list)
 print(list(result))
+
+# can we use num2words module by importing it
          
