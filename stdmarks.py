@@ -1,5 +1,5 @@
 name_list = ["Toyin", "Remi", "Bukky", "Femi"]
-marks = [95, 48, 59, 75]
+marks = [78, 48, 43, 62]
 
 counter = 0
 
