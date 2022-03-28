@@ -1,3 +1,4 @@
+#importing module for our template
 from tkinter import *
 
 root = Tk()
