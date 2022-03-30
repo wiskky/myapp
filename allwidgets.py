@@ -34,7 +34,7 @@ my_menu_2.add('command', label = 'Sub Menu 2') #Add Sub Menu 2
 
 #Creating a frame (my_frame_1)
 my_frame_1 = Frame(root, bd=2, relief = SUNKEN)
-my_frame_1.pack(side = LEFT)
+my_frame_1.pack(side = LEFT)   #align it to the left
 
 #add label to my_frame_1
 Label(my_frame_1, text='I am a label widget').pack()
@@ -165,5 +165,6 @@ top_pane_text = Text(my_paned_window_2, height=3, width=3)
 my_paned_window_2.add(top_pane_text)
 bottom_pane_text = Text(my_paned_window_2, height=3, width=3)
 my_paned_window_2.add(bottom_pane_text)
+
 
 root.mainloop()
