@@ -1,5 +1,5 @@
-name_list = ["Toyin", "Remi", "Bukky", "Femi"]
-marks = [78, 48, 43, 62]
+name_list = ["Toyin", "Remi", "Bukky", "Femi", "Wale"]
+marks = [78, 48, 43, 62, 80]
 
 counter = 0
 
