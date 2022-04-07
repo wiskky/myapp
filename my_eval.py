@@ -7,7 +7,7 @@
 
 import os
 
-from virtualenv import cli_run
+#from virtualenv import cli_run
 #print(dir(os))
 
 # list files and directories in the working directory
