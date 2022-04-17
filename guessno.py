@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Program to allow user to enter the guess number from 1 to 40
 import random
 
@@ -18,4 +18,4 @@ def guess(guessnumber):
             print('Sorry, guess again. Too high.')
     print(f'Yay, congrats. You have guessed the {random_number}')
 
-guess(40)
+guess(45)
