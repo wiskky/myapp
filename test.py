@@ -4,7 +4,7 @@ a_list = []
 
 for number in range(1,40):
     if number % 2 == 0:
-        a_list.append(number)
+        a_list.append(number). #to store the iteration no in the list.
 
 print(a_list)
 print(a_list)
