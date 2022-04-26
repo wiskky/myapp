@@ -55,19 +55,6 @@ Radiobutton(my_frame_1, text='Radio Button Un', value =1).pack()
 Radiobutton(my_frame_1, text='Radio Button Dos', value =2).pack()
 Radiobutton(my_frame_1, text='Radio Button Tres', value =3).pack()
 
-''' (NOT WORKING YET)
-#optionMenu widget 
-Label(my_frame_1, text='Example of OptionMenu Widget').pack()
-OptionMenu(my_frame_1, '', "Option A", "Option B", "Option C").pack()
-'''
-'''
-#adding my_image image(NOT WORKING YET)
-Label(my_frame_1, text='Image with Bitmap class:').pack()
-my_image = BitmapImage(file="file_bmp.xbm")
-my_label = Label(my_frame_1, image = my_image)
-my_label.image = my_image
-my_label.pack()
-'''
 
 #
 #Frame2 and Widgets it contains.
