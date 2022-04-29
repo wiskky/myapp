@@ -7,7 +7,7 @@ Example
 For year = 1905, the output should be
 solution(year) = 20;
 For year = 1700, the output should be
-solution(year) = 17.
+solution(year) = 17
 Input/Output
 
 '''
