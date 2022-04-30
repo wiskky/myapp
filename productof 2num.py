@@ -1,4 +1,10 @@
-#THis program is multiplying the element in the list and print out the max no.
+'''
+Given an array of integers, find the pair of adjacent elements 
+that has the largest product and return that product
+
+'''
+
+# THis program is multiplying the element in the list and print out the max no.
 def max_of_product_num(nums):
 	return ([a * b for a, b in zip(nums, nums[1:])])
 
