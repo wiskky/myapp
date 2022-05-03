@@ -1,6 +1,6 @@
-
+'''
 #This programe check for the duplicate number in the list and print it out.
-num = [20,30,20,40,30,50,70,90,50,100]
+num = [20,30,20,40,30,50,70,90,50,100, 700]
 
 new = []
 
@@ -12,6 +12,6 @@ for i in num:
 
 print(new)
 
-
+'''
 
 
