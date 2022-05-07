@@ -1,5 +1,7 @@
+#This program shows how to createtsbley
 import mysql.connector
 
+#provide your dB credentials
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
