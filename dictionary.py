@@ -1,3 +1,4 @@
+'''
 # Definition of dictionary
 europe = {'spain':'madrid', 'france':'paris', 'germany':'ronn', 'norway':'oslo' }
 
@@ -10,3 +11,6 @@ europe['germany'] = 'berlin'
 
 # Print out value that belongs to key 'norway'
 print(europe['norway'])
+
+'''
+
